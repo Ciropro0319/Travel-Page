@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Viajes</title>
+    <style>
+        body {
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+ 
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Descubre el Mundo</h1>
+    </header>
+    <main>
+        <h2>Bienvenido a nuestra página de viajes</h2>
+        <p>Explora los destinos más hermosos del mundo y planifica tu próxima aventura.</p>
+        <h3>Destinos populares:</h3>
+        <ul>
+            <li>París, Francia</li>
+            <li>Tokio, Japón</li>
+            <li>Nueva York, EE. UU.</li>
+            <li>Sídney, Australia</li>
+            <li>Barcelona, España</li>
+        </ul>
+  <img src="https://paris.jpg" alt="París, Francia">
+            <img src="https://tokyo.jpg" alt="Tokio, Japón">
+            <img src="https://newyork.jpg" alt="Nueva York, EE. UU.">
+            <img src="https://sydney.jpg" alt="Sídney, Australia">
+            <img src="https://barcelona.jpg" alt="Barcelona, España">
+    </main>
+</body>
+</html>
